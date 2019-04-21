@@ -8,9 +8,11 @@
 </head>
 <body>
   <h1><%= @number %></h1>
-    <h1><%= @number*2 %></h1>
   <form action="/plus" method="POST">
     <input type="submit" value="+">
   </form>
+  <% if @number% 2 == 0  %>
+    <p><%= @number %>は偶数です</p>
+  <% end %>
 </body>
 </html>
