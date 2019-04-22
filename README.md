@@ -7,7 +7,7 @@
 
 ## screenshot
 
-![screenshot](https://gyazo.com/8c0c3589aa0ce8c6970e9aa96fbd72a5)
+[![Image from Gyazo](https://i.gyazo.com/8c0c3589aa0ce8c6970e9aa96fbd72a5.gif)](https://gyazo.com/8c0c3589aa0ce8c6970e9aa96fbd72a5)
 
 ## 感想
 
